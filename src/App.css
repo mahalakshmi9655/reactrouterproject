@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+#n1
+{
+  text-decoration: none;
+  margin-right:15px;
+  background-color: yellowgreen;
+  border-radius: 5px;
+  
+}
+nav
+{
+  background-color: pink;
+  padding: 3px;
+}
+#n1:hover
+{
+  color:white;
+  background-color: red;
+}
